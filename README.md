@@ -1,4 +1,4 @@
- ![alt text](https://cdn.iconscout.com/icon/free/png-512/node-js-2-1174936.png)   
+ ![alt text](https://i7.pngguru.com/preview/416/280/884/node-js-express-js-javascript-redis-mean-node-js.jpg)   
 
 # Site web E-commerce  avec traitement X-sell et Up-sell :
 
